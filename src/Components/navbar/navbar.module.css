@@ -1,0 +1,33 @@
+.navLogo{
+    width: 50px;
+    height: 50px;
+}
+
+.navbar{
+    margin-left: 21%;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    background-color: #191d20;
+    padding: 8px 20px;
+    position: sticky;
+    top: 0;
+}
+
+.navInput{
+    width: 60%;
+    background-color: #272a30;
+    padding: 5px 0px;
+    padding-left: 10px;
+    border: none;
+    outline: none;
+}
+
+.navButton{
+    width: 12%;
+    background-color: #ff2424 ;
+    color: white;
+    border: none;
+    border-radius: 10px;
+    padding: 10px 0px;
+}

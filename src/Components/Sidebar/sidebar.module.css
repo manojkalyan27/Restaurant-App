@@ -1,0 +1,39 @@
+*{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+.manLogo{
+    width: 198px;
+    height: 198px;  
+}
+
+    .sidebar{
+        /* width: 20%; */
+        /* height: 100vh; */
+        display: flex ;
+        flex-direction: column;
+        justify-content: space-between;
+        /* border: 1px solid white; */
+        color: white;
+        padding-left: 50px;
+    }
+
+    .logoSection{
+        display: flex;
+        /* align-items: center; */
+        flex-direction: column;
+        /* justify-content: center; */
+    }
+    .slogan {
+        color: red;
+        padding-left: 15%;
+    }
+
+    .menu{
+        padding-left: 5%;
+    }
+
+    .links, .aboutUs{
+        margin-top: 50px;
+    }
+
+    

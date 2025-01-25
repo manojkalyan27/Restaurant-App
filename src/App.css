@@ -1,0 +1,14 @@
+.main_content{
+        width: 100%;
+        background-color: #0c0e10 ;
+}
+
+.side{
+    position: fixed;
+    /* top: 0; */
+    
+}
+
+button{
+    cursor: pointer;
+}
